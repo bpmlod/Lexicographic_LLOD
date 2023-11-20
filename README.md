@@ -5,3 +5,4 @@ This is the working repository for the report on "guidelines for lexicography an
 Preview report at https://bpmlod.github.io/Lexicographic_LLOD_report
 
 The report follows the W3C [ReSpec](https://github.com/w3c/respec/wiki) format
+
